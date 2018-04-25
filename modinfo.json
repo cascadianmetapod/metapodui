@@ -1,0 +1,53 @@
+{
+  "author": "Metapod",
+  "authors": [
+    "Metapod",
+	"dom314"
+  ],
+  "available": true,
+  "build": "89755",
+  "classic": false,
+  "classicOnly": false,
+  "companions": [],
+  "conflicts": {},
+  "context": "client",
+  "date": "2018-04-25",
+  "dependencies": [],
+  "description": "Some effects tweaks, grouping changes and build pattern alterations to make my personal PA experience better, here for others to enjoy.",
+
+  "display_name": "Metapod's personal affects",
+  "download": "",
+  "enabled": true,
+  "fileSystem": false,
+  "forum": "https://forums.uberent.com/threads/metapods-ui-mod.72883/",
+  "framework": false,
+  "icon": "https://img00.deviantart.net/2210/i/2009/100/5/a/tentacle_wip_by_ilytoo.jpg",
+  "identifier": "ca.pa.metapod.ui",
+  "priority": 100,
+  "scenes": {},
+
+  "searchable": [
+    "wyrm",
+    "independence",
+    "in-game",
+    "shader",
+    "colours",
+    "explosion",
+    "cascadian",
+	"metapod", 
+	"META",
+	"sinking",
+	"effects",
+	"affects",
+	"ui",
+	"build-pattern"
+  ],
+  "signature": "not yet implemented",
+  "sort": "wyrm independence!",
+  "timestamp": 1481673600000,
+  "titans": false,
+  "titansOnly": false,
+  "unitList": false,
+  "url": "https://github.com/cascadianmetapod/ca.pa.metapod.heavy_air_group_deselect/archive/master.zip",
+  "version": "2.1.0"
+}
